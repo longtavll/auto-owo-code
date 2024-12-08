@@ -1,6 +1,7 @@
 * 💎feature:
-- Auto-hunt
-- Auto-use gems
+- Cannot be detected (unless you don't solve the captcha ❗)
+- Auto hunt
+- Auto use gems
 - Open source (convenient to modify as you like)
 * ❌shortcoming:
 - No captcha auto-detection
