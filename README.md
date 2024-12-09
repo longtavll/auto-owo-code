@@ -15,4 +15,11 @@ Anyone who has ideas for my code please comment in: https://discord.gg/6cB73eybw
 - If you have staff, DMS me and I will ban them
 - If you don't need to comment or do anything else, please leave the server
 ----------------------------------------------------
-- Tutorial video: Coming soon....
+* Tutorial video: https://www.youtube.com/watch?v=5nEE7kQ4jwg
+* Step 1: Download python
+* Step 2: Download requests library
+  - Open Command Prompt
+  - Enter 'pip install requests'
+* Step 3: Get token and id channel
+  - Replace the token in YOUR TOKEN HERE and the channel id in the CHANNEL ID in the file
+* Step 4: Run the file
