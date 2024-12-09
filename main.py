@@ -2,7 +2,6 @@ from pickle import TRUE
 import requests
 import time
 import random
-import discord
 
 id_channel = 'ID CHANNEL'
 
